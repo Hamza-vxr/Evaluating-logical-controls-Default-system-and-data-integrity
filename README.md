@@ -1,9 +1,4 @@
-# Evaluating-logical-controls-Default-system-and-data-integrity
-
-
-Bilkul. Maine Lab Manual 02: Evaluating Logical Controls, Default Systems, and Data Integrity ko poora review kiya hai. Iske basis par GitHub README ke liye professional theory ye rahegi. 
-
-Lab 02: Evaluating Logical Controls, Default Systems, and Data Integrity
+ Evaluating Logical Controls, Default Systems, and Data Integrity
 
 Overview
 
